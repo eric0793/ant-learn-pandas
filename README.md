@@ -1,37 +1,30 @@
 # ant-learn-pandas
-
-#### 介绍
-蚂蚁学Pandas
-
-#### 软件架构
-软件架构说明
+pandas学习课程代码仓库
 
 
-#### 安装教程
+***视频全集地址：https://www.iqiyi.com/a_19rrhyyqix.html***
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+***如果购买了视频套餐，加我微信ant_learn_python，必定答疑！！！***
 
 
-#### 特技
+***公众号名字：蚂蚁学Python***
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+欢迎大家关注我的微信公众号，分享很多Python领域学习的视频  
+关注：Python基础入门，爬虫、数据分析、大数据处理、机器学习、推荐系统等领域  
+<img src="other_files/weixin_gongzhonghao.jpg" />
+
+### 注意，我使用的版本列表：
+```
+pandas==1.0.1
+numpy==1.18.1
+Flask==1.1.1
+PyMySQL==0.9.3
+pyecharts==1.7.1
+requests==2.22.0
+seaborn==0.10.0
+SQLAlchemy==1.3.13
+tensorboard==2.1.1
+tensorflow==2.1.0
+```
+
+大家可以用pip install -r requirements.txt安装一样的环境
